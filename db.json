@@ -1,0 +1,17 @@
+{
+    "menu":[
+        {"id":1,"name":"home","link":"https://google.com"},
+        {"id":2,"name":"about","link":"https://google.com"},
+        {"id":3,"name":"contact","link":"https://google.com"},
+        {"id":4,"name":"gallery","link":"https://google.com"}
+        
+    ],
+    "slider":[
+        {"id":1, "image":"./public/images/imgslider1.webp" , "alt":"imgslider1"},
+        {"id":2, "image":"./public/images/imgslider2.webp" , "alt":"imgslider2"},
+        {"id":3, "image":"./public/images/imgslider3.webp" , "alt":"imgslider3"},
+        {"id":4, "image":"./public/images/imgslider4.webp" , "alt":"imgslider4"}
+    ]
+
+    
+}
